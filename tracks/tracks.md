@@ -35,13 +35,12 @@ Each track has levels that represent progression through the track. Transitions 
     <td>Level 7</td>
     <td>Across the whole company</td>
   </tr>
-
-
-
 </table>
 
 ### [Support](support.md)
+Help desk technicians, technical support officers, and system administrators will follow the support track. Key skills here will be applied to deep knowledge of our systems and integration with first and third-party software. 
 ### [QA](qa.md)
+The support track is where QA analysts and engineers will start at Speedoc. Team members here contribute to their squads with manual testing, writing automated tests, and coordinating continuous and integrated delivery with platform engineers and development engineers.
 ### [Platform](platform.md)
 ### [Development](development.md)
 ### [Tech Lead](tech-lead.md)
