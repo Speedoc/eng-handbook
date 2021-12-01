@@ -1,7 +1,7 @@
 # Speedoc Engineering Growth Framework
 
 ### [Individual Contributor - Delivery](tracks/ic_delivery.md)
-Engineering positions 
+Engineers at Speedoc are free to join a track which they are qualified for and approved by their management. The individual contributor tracks are focused around squad participation and organizational contributions.
 
 ### [Engineering Management](tracks/eng-management.md)
 
