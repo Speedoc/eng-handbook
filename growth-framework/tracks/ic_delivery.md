@@ -3,7 +3,7 @@
 The support track is where QA analysts and engineers will start at Speedoc. Team members here contribute to their squads with manual testing, writing automated tests, and coordinating continuous and integrated delivery with platform engineers and development engineers.
 ### [Platform Engineer](individual-contributors/platform.md)
 Our platform engineers are responsible for maintaining our network architecture, cloud services, and CI/CD workflows.
-### [Development Engineer](/individual-contributors/development.md)
+### [Development Engineer](individual-contributors/development.md)
 Development engineers work on feature squads that work cross-functionally with product teams to deliver increments of value
 ### [Tech Lead](individual-contributors/tech-lead.md)
 Tech Leads own the technical direction of the squad and coordinate team efforts. They are responsible for helping set up squad goals, future milestones, and ensuring high standards of quality. Tech leads are responsible for the output of the squad.

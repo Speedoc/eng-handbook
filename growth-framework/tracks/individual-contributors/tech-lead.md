@@ -50,4 +50,4 @@ The tech lead track is a branch from the development/delivery track.
   <li>Partners with the Group Product Manager and drives  strategic decisions of the whole pillar.</li>
 </ul>
 
-[back to tracks](../ic_delivery.md)
+[back to tracks](/growth-framework/tracks/ic_delivery.md)
