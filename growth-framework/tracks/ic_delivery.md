@@ -46,7 +46,20 @@ Tech Leads own the technical direction of the squad and coordinate team efforts
   </tr>
 </table>
 
+## Technical Skills
 
+### [Coding & Testing](delivery/Technical_skills/coding_testing.md)
+
+### Design & Architecture
+
+
+### Debugging & Troubleshooting
+
+### Documentation
+
+### Hiring & Reputation
+
+### Developer Experience
 
 <br>
 
