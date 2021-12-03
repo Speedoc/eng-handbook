@@ -10,5 +10,3 @@ version 1.0
 
 ### [Progression Framework](growth-framework/framework.md)
 ### [Performance Reviews]()
-### [Squads]()
-### [Our Tech Stack]()
