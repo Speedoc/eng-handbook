@@ -81,8 +81,6 @@ Build trust with the team through being available, approachable, and open to fee
 - Works closely with our most senior Engineers to build and track against measurable Engineering metrics.
 - Rolls out significant process improvements and measurable efficiencies to Engineering performance.
 - Facilitates and identifies initiatives within R&D and the whole company, to reduce technical overhead / increase throughput.
-#
-
 
 
 <br>
