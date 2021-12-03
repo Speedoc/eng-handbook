@@ -8,6 +8,8 @@ Development engineers work on feature squads that work cross-functionally with p
 ### [Delivery - Tech Lead](delivery/tech-lead.md)
 Tech Leads own the technical direction of the squad and coordinate team efforts. They are responsible for helping set up squad goals, future milestones, and ensuring high standards of quality. Tech leads are responsible for the output of the squad.
 
+[Tech Lead vs Engineering Manager](../TechLead-engMan.md)
+
 
 <br>
 

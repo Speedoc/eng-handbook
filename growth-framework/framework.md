@@ -11,7 +11,7 @@ Engineers at Speedoc are free to join a track which they are qualified for and a
 
 Engineering Managers focus on their team's growth, progression, performance, and well-being. Engineering Managers build and improve on department processes and frameworks. Engineering Managers may contribute technically to squads, and also know enough about the tech stack to contribute to cross-departmental discussions and queries.
 
-<br>
+
 <br>
 
 [back to home](/README.md)
