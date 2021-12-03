@@ -9,6 +9,4 @@ version 1.0
 </br>
 
 ### [Progression Framework](growth-framework/framework.md)
-### [Performance Reviews]()
-### [Squads]()
-### [Our Tech Stack]()
+### [Our Tech Stack](stack.md)

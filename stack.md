@@ -1,0 +1,3 @@
+# Speedoc Tech Stack
+
+// TODO
