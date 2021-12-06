@@ -4,7 +4,6 @@
  ><1 year software testing experience / fresher.
 ### Minimum qualifications
 - Bachelor's degree in Computer Science or equivalent practical experience in tech industry.
-- Tech savvy
 - Professional Working Proficiency in English (with IETLS, TOEFL, or CEFR certificate).
 
 ### Preferred qualifications
