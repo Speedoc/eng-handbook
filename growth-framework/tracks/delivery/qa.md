@@ -2,9 +2,10 @@
 
 ### Manual Test Analyst
 
-### Testing Engineer Level 1
+### Test Engineer Level 1 (subtask scope)
 
 ### Test Engineer Level 2
+Same as Level 1, but more independence (Story / Feature Scope)
 <ul>
   <li>Improve test coverage in collaboration with other QA Engineers</li>
   <li>Help create test strategy and implement test automation for new and existing features.</li>
@@ -15,7 +16,7 @@
   <li>Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.</li>
 </ul>
 
-### Test Level 3
+### Test Engineer Level 3 (Squad Scope)
 <ul>
   <li>Lead test planning and optimize test coverage</li>
   <li>Help create test strategy and implement test automation for new and existing features.</li>
@@ -26,9 +27,9 @@
   <li>Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.</li>
 </ul>
 
-### Test Level 4
+### Test Engineer Level 4 (Specialized Tester or Project Consultant)
 
-### Test Level 5
+### Test Engineer Level 5 (Head of Tests and QA)
 
 <br>
 
