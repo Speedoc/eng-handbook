@@ -1,10 +1,10 @@
 # QA Engineer Track
 
-### Manual Test Engineer
+### Manual Test Analyst
 
-### Level 1
+### Testing Engineer Level 1
 
-### Level 2
+### Test Engineer Level 2
 <ul>
   <li>Improve test coverage in collaboration with other QA Engineers</li>
   <li>Help create test strategy and implement test automation for new and existing features.</li>
@@ -15,7 +15,7 @@
   <li>Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.</li>
 </ul>
 
-### Level 3
+### Test Level 3
 <ul>
   <li>Lead test planning and optimize test coverage</li>
   <li>Help create test strategy and implement test automation for new and existing features.</li>
@@ -26,9 +26,9 @@
   <li>Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.</li>
 </ul>
 
-### Level 4
+### Test Level 4
 
-### Level 5
+### Test Level 5
 
 <br>
 
