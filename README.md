@@ -13,6 +13,7 @@ version 1.0
 
 
 ### Career Ladder
+![Career Ladder](img/Eng%20Career%20Paths.jpeg)
 
 ### Tracks
 - [Individual Contributor](#individual-contributor---delivery)
