@@ -19,6 +19,8 @@ version 1.0
 - [Management](#engineering-management)
 - [Tech Lead vs. Engineering Manager](#tech-lead-vs-engineering-manager)
 
+<hr>
+
 #### Individual Contributor - Delivery
 Engineers at Speedoc are free to join a track which they are qualified for and approved by their management. The individual contributor tracks are focused around squad participation and organizational contributions.
 
@@ -222,6 +224,8 @@ Tech Leads own the technical direction of the squad and coordinate team efforts
 - Drives delivery of pieces of work that span multiple squads.
 - Partners with the Group Product Manager and drives  strategic decisions of the whole pillar.
 
+<hr>
+
 #### Engineering Management
 
 Engineering Managers focus on their team's growth, progression, performance, and well-being. Engineering Managers build and improve on department processes and frameworks. Engineering Managers may contribute technically to squads, and also know enough about the tech stack to contribute to cross-departmental discussions and queries.
@@ -307,6 +311,8 @@ Build trust with the team through being available, approachable, and open to fee
 - Works closely with our most senior Engineers to build and track against measurable Engineering metrics.
 - Rolls out significant process improvements and measurable efficiencies to Engineering performance.
 - Facilitates and identifies initiatives within R&D and the whole company, to reduce technical overhead / increase throughput.
+
+<hr>
 
 #### Tech Lead vs. Engineering Manager
 It is very common for companies to mix the Tech Lead and Engineering Manager roles. Although both roles have some overlap, their focus is different: the Tech Lead is in charge of the *System* while the Engineering Manager is in charge of the *People*.
