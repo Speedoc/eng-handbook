@@ -6,8 +6,6 @@
 # Speedoc Engineering Handbook
 version 1.0
 
-</br>
-
 ## Progression Framework
 
 
@@ -23,10 +21,10 @@ version 1.0
 Engineers at Speedoc are free to join a track which they are qualified for and approved by their management. The individual contributor tracks are focused around squad participation and organizational contributions.
 
 The following tracks are available in the delivery category:
-- [Test Engineer](#manual-test-analyst)
-- [Platform Engineer](#platform-engineer-1)
-- Development Engineer
-- Tech Lead
+- [Test Engineer](#delivery---test-engineer)
+- [Platform Engineer](#delivery---platform-engineer)
+- [Development Engineer](#delivery---development-engineer)
+- [Tech Lead](#delivery---tech-lead)
 
 
 ### Engineering Management
@@ -127,7 +125,61 @@ Our platform engineers are responsible for maintaining our network architecture,
 
 #### Delivery - Development Engineer
 
-Development engineers work on feature squads that work cross-functionally with product teams to deliver increments of value
+A development engineer will be assigned to an appropriate squad and chapter. Development engineers work on features and are expected to participate in agile events and scrum rituals. A level 4 Development engineer can transition to Tech Lead Level 5 or continue the development engineer track.
+
+##### Level 1
+- Delivers well-defined assigned tasks within the cadence of the team's sprint.
+- Understands the basics of agile delivery
+- Contributes during squad ceremonies and scrum ritual events
+
+##### Level 2
+- Scopes and estimates their own small stories and deliver with some reliability
+- Helps move the squad's goals forward by reviewing teammates PRs in  timely fashion
+- Aware of any dependencies on work you are delivering
+- Actively seeks out support if your own work is blocked to help maintain the velocity of the squad
+  
+##### Level 3  
+- Works on larger features that contribute to moving the dial on the squad's OKRs.
+- Reliably scopes, estimates and delivers complex tasks.
+- Helps increase delivery by suggesting ways in which the squad can improve.
+- Feature led a small, well-defined deliverable end to end.
+
+##### Level 4
+- Works on complex feature sets, breaks them down into smaller pieces in order to deliver value to the customer more quickly.
+- Balances pace vs perfection. Considers the trade-offs between spending days making the code perfect and shipping something that works more rapidly.
+- Identifies and helps others to resolve blockers, aiding delivery.
+- Has knowledge of and can encourage the team to embrace agile practices that might make the squad more effective.
+- Contributes and facilitates BAU (Business-as-usual aka chores) tasks. For example, dependency management, security vulnerabilities, assisting external teams with technical queries.
+- Chases PR reviews to help unblock the squads' work.
+- Feature led a complex deliverable end-to-end.
+
+##### Level 5
+- Creates and shares new material to disseminate knowledge (e.g.: a blog, lunch and learn, documentation)
+- Delivers pieces of work that impact significantly on the squad's OKRs.
+- Regularly asked for input into the most complex PRs for their chapter.
+- Facilitates technical meetings and discussions involving the squad, collects actions, and chases/follows-up on these
+- Identifies and fixes immediate delivery challenges, such as unstable pipelines and development tooling.
+- Contributes towards initiatives that improve the output of the whole chapter.
+- Breaks down large features and epics into smaller pieces of work to enable others in the chapter to review pull requests more efficiently. Encourages others to do this too.
+
+##### Level 6
+- Runs workshops / talks for things such as understanding core parts of our systems, processes, language features and more.
+- Seeks to gain knowledge otherwise not held within their chapter; and distributes gained knowledge through appropriate medium.
+- Identifies the next most impactful and important experiment / piece of work to deliver.
+- Understands deeply the problem-space they are working in, and solves hard problems and bugs that have previously evaded engineers.
+- Takes a long-term vision for their discipline/chapter and define building blocks to get there.
+- Leads initiatives that impact and improve teh effectiveness of their relevant chapter or multiple squads.
+
+##### Level 7
+- Seeks to gain knowledge not otherwise not held within the company; and distributes gained knowledge through appropriate medium.
+- Focused on the highest impact, most critical, future-facing decisions and guidance, advancing us technically and affecting business success.
+- Bootstraps teams, able to context switch and jump between different squads to accelerate delivery.
+- Plans & executes large, complex pieces of work with interdependencies across teams and systems.
+- Influences company  goals and strategy, identifying new business growth opportunities.
+- can take a long-term vision for the whole engineering discipline and define building blocks to get there.
+
+
+[back to tracks](../ic_delivery.md)
 #### Delivery - Tech Lead
 
 Tech Leads own the technical direction of the squad and coordinate team efforts. They are responsible for helping set up squad goals, future milestones, and ensuring high standards of quality. Tech leads are responsible for the output of the squad
