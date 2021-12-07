@@ -23,7 +23,7 @@ version 1.0
 Engineers at Speedoc are free to join a track which they are qualified for and approved by their management. The individual contributor tracks are focused around squad participation and organizational contributions.
 
 The following tracks are available in the delivery category:
-- [Test Engineer](#test-engineer-1-subtask-scope)
+- [Test Engineer](#manual-test-analyst)
 - [Platform Engineer](#platform-engineer-1)
 - Development Engineer
 - Tech Lead
