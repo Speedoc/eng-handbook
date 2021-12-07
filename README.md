@@ -178,8 +178,6 @@ A development engineer will be assigned to an appropriate squad and chapter. Dev
 - Influences company  goals and strategy, identifying new business growth opportunities.
 - can take a long-term vision for the whole engineering discipline and define building blocks to get there.
 
-
-[back to tracks](../ic_delivery.md)
 #### Delivery - Tech Lead
 
 Tech Leads own the technical direction of the squad and coordinate team efforts. They are responsible for helping set up squad goals, future milestones, and ensuring high standards of quality. Tech leads are responsible for the output of the squad
