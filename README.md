@@ -123,24 +123,24 @@ Our platform engineers are responsible for maintaining our network architecture,
 
 A development engineer will be assigned to an appropriate squad and chapter. Development engineers work on features and are expected to participate in agile events and scrum rituals. A level 4 Development engineer can transition to Tech Lead Level 5 or continue the development engineer track.
 
-###### Level 1
+###### Development Engineer 1
 - Delivers well-defined assigned tasks within the cadence of the team's sprint.
 - Understands the basics of agile delivery
 - Contributes during squad ceremonies and scrum ritual events
 
-###### Level 2
+###### Development Engineer 2
 - Scopes and estimates their own small stories and deliver with some reliability
 - Helps move the squad's goals forward by reviewing teammates PRs in  timely fashion
 - Aware of any dependencies on work you are delivering
 - Actively seeks out support if your own work is blocked to help maintain the velocity of the squad
   
-###### Level 3  
+###### Development Engineer 3  
 - Works on larger features that contribute to moving the dial on the squad's OKRs.
 - Reliably scopes, estimates and delivers complex tasks.
 - Helps increase delivery by suggesting ways in which the squad can improve.
 - Feature led a small, well-defined deliverable end to end.
 
-###### Level 4
+###### Development Engineer 4
 - Works on complex feature sets, breaks them down into smaller pieces in order to deliver value to the customer more quickly.
 - Balances pace vs perfection. Considers the trade-offs between spending days making the code perfect and shipping something that works more rapidly.
 - Identifies and helps others to resolve blockers, aiding delivery.
@@ -149,7 +149,7 @@ A development engineer will be assigned to an appropriate squad and chapter. Dev
 - Chases PR reviews to help unblock the squads' work.
 - Feature led a complex deliverable end-to-end.
 
-##### Level 5
+###### Development Engineer 5
 - Creates and shares new material to disseminate knowledge (e.g.: a blog, lunch and learn, documentation)
 - Delivers pieces of work that impact significantly on the squad's OKRs.
 - Regularly asked for input into the most complex PRs for their chapter.
@@ -158,7 +158,7 @@ A development engineer will be assigned to an appropriate squad and chapter. Dev
 - Contributes towards initiatives that improve the output of the whole chapter.
 - Breaks down large features and epics into smaller pieces of work to enable others in the chapter to review pull requests more efficiently. Encourages others to do this too.
 
-###### Level 6
+###### Development Engineer 6
 - Runs workshops / talks for things such as understanding core parts of our systems, processes, language features and more.
 - Seeks to gain knowledge otherwise not held within their chapter; and distributes gained knowledge through appropriate medium.
 - Identifies the next most impactful and important experiment / piece of work to deliver.
@@ -166,7 +166,7 @@ A development engineer will be assigned to an appropriate squad and chapter. Dev
 - Takes a long-term vision for their discipline/chapter and define building blocks to get there.
 - Leads initiatives that impact and improve teh effectiveness of their relevant chapter or multiple squads.
 
-###### Level 7
+###### Development Engineer 7
 - Seeks to gain knowledge not otherwise not held within the company; and distributes gained knowledge through appropriate medium.
 - Focused on the highest impact, most critical, future-facing decisions and guidance, advancing us technically and affecting business success.
 - Bootstraps teams, able to context switch and jump between different squads to accelerate delivery.
@@ -178,19 +178,19 @@ A development engineer will be assigned to an appropriate squad and chapter. Dev
 
 Tech Leads own the technical direction of the squad and coordinate team efforts. They are responsible for helping set up squad goals, future milestones, and ensuring high standards of quality. Tech leads are responsible for the output of the squad
 
-###### Level 1
+###### Tech Lead 1
 - N/A
 
-###### Level 2
+###### Tech Lead 2
 - N/A
 
-###### Level 3
+###### Tech Lead 3
 - N/A
 
-###### Level 4
+###### Tech Lead 4
 - N/A
 
-###### Level 5
+###### Tech Lead 5
 - Is a partner to the squad's PM and Designer
 - Enables the team to work efficiently towards their goals (for example by prioritising work, identifying dependencies, learning from team retros, making sure documentation is up to date).
 - Knows how to balance your individual output against the output of the squad.
@@ -206,7 +206,7 @@ Tech Leads own the technical direction of the squad and coordinate team efforts
 - Facilitates meetings and discussions involving hte squad, collects actions, and chases/follows up on these.
 - Breaks down large features and epics into smaller pieces of work to enable others in the chapter to review pull requests more efficiently. Encourages others to do this too.
 
-###### Level 6
+###### Tech Lead 6
 - Evaluates squad work based on squad OKRs and product delivery.
 - Looked to as a model for balancing product and engineering concerns.
 - Creates an atmosphere of psychological safety and trust in the squad.
@@ -216,7 +216,7 @@ Tech Leads own the technical direction of the squad and coordinate team efforts
 - Identifies deliverables, and technical solutions, that deliver real value to our customers.
 - Works with other tech leads to drive best practices across multiple squads.
 
-###### Level 7
+###### Tech Lead 7
 - Has an understand and inputs into the problem space of more than one squad.
 - Drives delivery of pieces of work that span multiple squads.
 - Partners with the Group Product Manager and drives  strategic decisions of the whole pillar.
