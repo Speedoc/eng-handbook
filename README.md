@@ -386,6 +386,25 @@ When looking at the levels within a track, it is important to recognise the the 
 
 #### Reviews & Promotions
 
+In Q1/Q3 we do an 'on/off track review' while in Q2/Q4 we do a 'Career Growth Review'.
+
 Between you and your manager, you agree on where you are on the growth framework.
 
 ![Performance Reviews](img/Eng%20Career%20Paths%20-%20Performance%20Reviews.jpeg)
+
+> **Q1/Q3**
+
+March / September
+- Manager & self review
+- Peer reviews within team / squad (optional)
+- Goal-tracking & review
+
+> **Q2/Q3**
+
+June / December
+- Manager & self review
+- Cross-functional peer reviews
+- Promotions & pay increases
+- Goal review
+- 6 month goal-setting
+
