@@ -40,18 +40,6 @@ The following tracks are available in the delivery category:
 - [Development Engineer](#delivery---development-engineer)
 - [Tech Lead](#delivery---tech-lead)
   
-| Level | Ownership|
-| :--- | :--- |
-| Level 1 | Small pieces of well-defined work within a squad, with the assistance of others |
-| Level 2 | Independently works on small tasks within a squad |
-| Level 3 | Feature / deliverable |
-| Level 4 | Squad |
-| Level 5 | Squad and Chapter |
-| Level 6 | Across more than one squad and chapter |
-| Level 7 | Across the whole company |
-
-<br>
-
 <hr>
 
 ##### Delivery - Test Engineer
@@ -373,3 +361,31 @@ The following is a non-exhaustive list that exemplifies some of the different re
 <hr>
 
 ### Growth
+
+#### Levels
+
+We'll periodically be evolving and upgrading the levels, making them more detailed, more relevant, and expanding them. This may involve existing levels or building into levels that don't exist yet, ie level 7+.
+
+An individual would be expected to build on their skills evenly and consistently - so that there is no more than +-1 deviation in their attributes achieved across the level framework. In other words, an engineer could be mostly L5 and may have one or two attributes that are L4 or L6 but we expect that they would build on their L4 skills first.
+
+An engineer is expected to achieve ~80% of attributes of the next level to be considered for promotion.
+
+#### Scope
+
+When looking at the levels within a track, it is important to recognise the the *scope* of ownership that is expected by each level.
+
+| Level | Ownership|
+| :--- | :--- |
+| Level 1 | Small pieces of well-defined work within a squad, with the assistance of others |
+| Level 2 | Independently works on small tasks within a squad |
+| Level 3 | Feature / deliverable |
+| Level 4 | Squad |
+| Level 5 | Squad and Chapter |
+| Level 6 | Across more than one squad and chapter |
+| Level 7 | Across the whole company |
+
+#### Reviews & Promotions
+
+Between you and your manager, you agree on where you are on the growth framework.
+
+![Performance Reviews](img/Eng%20Career%20Paths%20-%20Performance%20Reviews.jpeg)
