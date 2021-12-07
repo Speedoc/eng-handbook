@@ -30,6 +30,8 @@ The following tracks are available in the delivery category:
 - [Development Engineer](#delivery---development-engineer)
 - [Tech Lead](#delivery---tech-lead)
 
+<hr>
+
 ##### Delivery - Test Engineer
 
 The support track is where QA analysts and engineers will start at Speedoc. Team members here contribute to their squads with manual testing, writing automated tests, and coordinating continuous and integrated delivery with platform engineers and development engineers.
@@ -81,6 +83,8 @@ In addition to the skills from Level 3:
 - Motivate QA team, recognize good talent and bring out the best out of each individual.
 - Build, implement and direct quality assurance principles and maintain the quality of delivery.
 
+<hr>
+
 ##### Delivery - Platform Engineer
 
 Our platform engineers are responsible for maintaining our network architecture, cloud services, and CI/CD workflows.
@@ -121,6 +125,8 @@ Our platform engineers are responsible for maintaining our network architecture,
 - Can advise on appropriate hosting providers when none of the already vetted options are appropriate.
 - Is familiar with various hosting paradigms; PaaS, CaaS, SaaS, IaaS, DIY, and the associated pros and cons of each.
 - Is familiar with distributed architecture concepts and options such as SOA and Microservices.
+
+<hr>
 
 ##### Delivery - Development Engineer
 
@@ -176,6 +182,8 @@ A development engineer will be assigned to an appropriate squad and chapter. Dev
 - Plans & executes large, complex pieces of work with interdependencies across teams and systems.
 - Influences company  goals and strategy, identifying new business growth opportunities.
 - can take a long-term vision for the whole engineering discipline and define building blocks to get there.
+
+<hr>
 
 ##### Delivery - Tech Lead
 
@@ -339,5 +347,7 @@ The following is a non-exhaustive list that exemplifies some of the different re
 | Development Process (shared)​ | Development Process (shared)​ |
 | Team Visibility and Recognition (shared) | Team Visibility and Recognition (shared)​ |
 | Ability to Act as Engineering Manager when Required | Ability to Act as Tech Lead when Required |
+
+<hr>
 
 ### Growth
