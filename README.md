@@ -16,6 +16,13 @@ version 1.0
 ![Career Ladder](img/Eng%20Career%20Paths.jpeg)
 
 ### Tracks
+
+The default tracks for engineers are in the individual contributor tracks. Those who progress along the individual contributor track will typically be expert coders, they understand deeply the business context and problem space they're working in and may have a seat across more than one squad.
+
+The skills you can develop and the impact you create as an Engineering Manager is quite different to other roles in engineering, therefore a different growth track exists and can be found below.
+
+Tech Lead and Manager position availability is determined by the needs of the organization. 
+
 - [Individual Contributor](#individual-contributor---delivery)
 - [Management](#engineering-management)
 - [Tech Lead vs. Engineering Manager](#tech-lead-vs-engineering-manager)
@@ -23,7 +30,7 @@ version 1.0
 <hr>
 
 #### Individual Contributor - Delivery
-Engineers at Speedoc are free to join a track which they are qualified for and approved by their management. The individual contributor tracks are focused around squad participation and organizational contributions.
+Engineers at Speedoc are free to join a track which they are qualified for and approved by their management. This allows you to choose how you can make the most impact possible within Engineering and in which track you'd like to progress. The individual contributor tracks are focused around squad participation and organizational contributions. 
 
 The following tracks are available in the delivery category:
 - [Test Engineer](#delivery---test-engineer)
