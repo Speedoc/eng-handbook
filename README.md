@@ -26,11 +26,6 @@ The following tracks are available in the delivery category:
 - [Development Engineer](#delivery---development-engineer)
 - [Tech Lead](#delivery---tech-lead)
 
-
-### Engineering Management
-
-Engineering Managers focus on their team's growth, progression, performance, and well-being. Engineering Managers build and improve on department processes and frameworks. Engineering Managers may contribute technically to squads, and also know enough about the tech stack to contribute to cross-departmental discussions and queries.
-
 #### Delivery - Test Engineer
 
 The support track is where QA analysts and engineers will start at Speedoc. Team members here contribute to their squads with manual testing, writing automated tests, and coordinating continuous and integrated delivery with platform engineers and development engineers.
@@ -224,3 +219,7 @@ Tech Leads own the technical direction of the squad and coordinate team efforts
 - Has an understand and inputs into the problem space of more than one squad.
 - Drives delivery of pieces of work that span multiple squads.
 - Partners with the Group Product Manager and drives  strategic decisions of the whole pillar.
+
+### Engineering Management
+
+Engineering Managers focus on their team's growth, progression, performance, and well-being. Engineering Managers build and improve on department processes and frameworks. Engineering Managers may contribute technically to squads, and also know enough about the tech stack to contribute to cross-departmental discussions and queries.
