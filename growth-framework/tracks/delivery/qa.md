@@ -6,7 +6,8 @@
 - Understands the basics of agile testing.
 - Contributes during squad ceremonies and scrum ritual events.
 - Participate in test pipeline on-call rotation and ensure that pipeline failures are triaged, addressed and communicated in a timely manner.
-<p>&nbsp;</p>
+
+<br>
 
 ## Test Engineer Level 1 (subtask scope)
 - Perform and improve test coverage in collaboration with other Software Engineers in Test.
@@ -14,7 +15,8 @@
 - Understands the basics of agile testing
 - Contributes during squad ceremonies and scrum ritual events
 - Participate in test pipeline on-call rotation and ensure that pipeline failures are triaged, addressed and communicated in a timely manner.
-<p>&nbsp;</p>
+
+<br>
 
 ## Test Engineer Level 2 (Story / Feature Scope)
 - Improve test coverage in collaboration with other QA Engineers
@@ -24,7 +26,8 @@
 - Contribute to test stability in production and non-production environments.
 - Contribute to new test framework tooling and provide feedback to new approaches proposed by the team.
 - Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.
-<p>&nbsp;</p>
+
+<br>
 
 ## Test Engineer Level 3 (Squad Scope)
 - Lead test planning and optimize test coverage.
@@ -34,13 +37,16 @@
 - Contribute to test stability in production and non-production environments.
 - Contribute to new test framework tooling and provide feedback to new approaches proposed by the team.
 - Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.
-<p>&nbsp;</p>
+
+<br>
 
 ## Test Engineer Level 4 (Specialized Tester or Project Consultant)
 > Specialized engineer in testing
+
+In addition to the skills from Level 3:
 - Security Testing, Automated Testing, E2E automation, Backend/API Testing, etc…
 
-<p>&nbsp;</p>
+<br>
 
 ## Test Engineer Level 5 (Head of Tests and QA)
 - Implementing and shaping the company’s QA processes and strategies.
