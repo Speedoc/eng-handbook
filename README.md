@@ -15,6 +15,8 @@ version 1.0
 ### Career Ladder
 ![Career Ladder](img/Eng%20Career%20Paths.jpeg)
 
+<hr>
+
 ### Tracks
 
 The default tracks for engineers are in the individual contributor tracks. Those who progress along the individual contributor track will typically be expert coders, they understand deeply the business context and problem space they're working in and may have a seat across more than one squad.
