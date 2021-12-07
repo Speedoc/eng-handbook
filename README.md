@@ -22,24 +22,20 @@ version 1.0
 ### Individual Contributor - Delivery
 Engineers at Speedoc are free to join a track which they are qualified for and approved by their management. The individual contributor tracks are focused around squad participation and organizational contributions.
 
+The following tracks are available in the delivery category:
+- [Test Engineer](#test-engineer-1-subtask-scope)
+- [Platform Engineer](#platform-engineer-1)
+- Development Engineer
+- Tech Lead
+
+
 ### Engineering Management
 
 Engineering Managers focus on their team's growth, progression, performance, and well-being. Engineering Managers build and improve on department processes and frameworks. Engineering Managers may contribute technically to squads, and also know enough about the tech stack to contribute to cross-departmental discussions and queries.
 
-#### [Delivery - QA Engineer](#test-engineer-1-subtask-scope)
+#### Delivery - Test Engineer
 
 The support track is where QA analysts and engineers will start at Speedoc. Team members here contribute to their squads with manual testing, writing automated tests, and coordinating continuous and integrated delivery with platform engineers and development engineers.
-
-#### [Delivery - Platform Engineer](#platform-engineer-1)
-
-Our platform engineers are responsible for maintaining our network architecture, cloud services, and CI/CD workflows.
-
-#### Delivery - Development Engineer
-
-Development engineers work on feature squads that work cross-functionally with product teams to deliver increments of value
-#### Delivery - Tech Lead
-
-Tech Leads own the technical direction of the squad and coordinate team efforts. They are responsible for helping set up squad goals, future milestones, and ensuring high standards of quality. Tech leads are responsible for the output of the squad
 
 ##### Manual Test Analyst
 
@@ -88,6 +84,10 @@ In addition to the skills from Level 3:
 - Motivate QA team, recognize good talent and bring out the best out of each individual.
 - Build, implement and direct quality assurance principles and maintain the quality of delivery.
 
+#### Delivery - Platform Engineer
+
+Our platform engineers are responsible for maintaining our network architecture, cloud services, and CI/CD workflows.
+
 ##### Platform Engineer 1
 - N/A
 
@@ -124,4 +124,12 @@ In addition to the skills from Level 3:
 - Can advise on appropriate hosting providers when none of the already vetted options are appropriate.
 - Is familiar with various hosting paradigms; PaaS, CaaS, SaaS, IaaS, DIY, and the associated pros and cons of each.
 - Is familiar with distributed architecture concepts and options such as SOA and Microservices.
+
+#### Delivery - Development Engineer
+
+Development engineers work on feature squads that work cross-functionally with product teams to deliver increments of value
+#### Delivery - Tech Lead
+
+Tech Leads own the technical direction of the squad and coordinate team efforts. They are responsible for helping set up squad goals, future milestones, and ensuring high standards of quality. Tech leads are responsible for the output of the squad
+
 
