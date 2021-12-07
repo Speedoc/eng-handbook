@@ -31,16 +31,12 @@ The support track is where QA analysts and engineers will start at Speedoc. Team
 - Contributes during squad ceremonies and scrum ritual events.
 - Participate in test pipeline on-call rotation and ensure that pipeline failures are triaged, addressed and communicated in a timely manner.
 
-<br>
-
 ###### Test Engineer Level 1 (subtask scope)
 - Perform and improve test coverage in collaboration with other Software Engineers in Test.
 - Help create test strategy and implement test scenarios for new features.
 - Understands the basics of agile testing
 - Contributes during squad ceremonies and scrum ritual events
 - Participate in test pipeline on-call rotation and ensure that pipeline failures are triaged, addressed and communicated in a timely manner.
-
-<br>
 
 ###### Test Engineer Level 2 (Story / Feature Scope)
 - Improve test coverage in collaboration with other QA Engineers
@@ -51,8 +47,6 @@ The support track is where QA analysts and engineers will start at Speedoc. Team
 - Contribute to new test framework tooling and provide feedback to new approaches proposed by the team.
 - Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.
 
-<br>
-
 ###### Test Engineer Level 3 (Squad Scope)
 - Lead test planning and optimize test coverage.
 - Help create test strategy and implement test automation for new and existing features.
@@ -62,15 +56,11 @@ The support track is where QA analysts and engineers will start at Speedoc. Team
 - Contribute to new test framework tooling and provide feedback to new approaches proposed by the team.
 - Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.
 
-<br>
-
 ###### Test Engineer Level 4 (Specialized Tester or Project Consultant)
 > Specialized engineer in testing
 
 In addition to the skills from Level 3:
 - Security Testing, Automated Testing, E2E automation, Backend/API Testing, etc…
-
-<br>
 
 ###### Test Engineer Level 5 (Head of Tests and QA)
 - Implementing and shaping the company’s QA processes and strategies.
@@ -80,8 +70,6 @@ In addition to the skills from Level 3:
 - Managing testing departments or testing functions, managing large and complex activities and processes.
 - Motivate QA team, recognize good talent and bring out the best out of each individual.
 - Build, implement and direct quality assurance principles and maintain the quality of delivery.
-
-<br />
 
 ##### Delivery - Platform Engineer
 
