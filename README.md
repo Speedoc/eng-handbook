@@ -29,6 +29,18 @@ The following tracks are available in the delivery category:
 - [Platform Engineer](#delivery---platform-engineer)
 - [Development Engineer](#delivery---development-engineer)
 - [Tech Lead](#delivery---tech-lead)
+  
+| Level | Ownership|
+| :--- | :--- |
+| Level 1 | Small pieces of well-defined work within a squad, with the assistance of others |
+| Level 2 | Independently works on small tasks within a squad |
+| Level 3 | Feature / deliverable |
+| Level 4 | Squad |
+| Level 5 | Squad and Chapter |
+| Level 6 | Across more than one squad and chapter |
+| Level 7 | Across the whole company |
+
+<br>
 
 <hr>
 
