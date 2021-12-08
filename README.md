@@ -54,14 +54,14 @@ The support track is where QA analysts and engineers will start at Speedoc. Team
 - Contributes during squad ceremonies and scrum ritual events.
 - Participate in test pipeline on-call rotation and ensure that pipeline failures are triaged, addressed and communicated in a timely manner.
 
-###### Test Engineer 1 (subtask scope)
+###### Test Engineer 1
 - Perform and improve test coverage in collaboration with other Software Engineers in Test.
 - Help create test strategy and implement test scenarios for new features.
 - Understands the basics of agile testing
 - Contributes during squad ceremonies and scrum ritual events
 - Participate in test pipeline on-call rotation and ensure that pipeline failures are triaged, addressed and communicated in a timely manner.
 
-###### Test Engineer 2 (Story / Feature Scope)
+###### Test Engineer 2
 - Improve test coverage in collaboration with other QA Engineers
 - Help create test strategy and implement test automation for new and existing features.
 - Identifies gaps in functional test automation, document missing coverage, and add new test automation to improve coverage.
@@ -70,7 +70,7 @@ The support track is where QA analysts and engineers will start at Speedoc. Team
 - Contribute to new test framework tooling and provide feedback to new approaches proposed by the team.
 - Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.
 
-###### Test Engineer 3 (Squad Scope)
+###### Test Engineer 3
 - Lead test planning and optimize test coverage.
 - Help create test strategy and implement test automation for new and existing features.
 - Identifies gaps in functional test automation, document missing coverage, and add new test automation to improve coverage.
@@ -79,12 +79,12 @@ The support track is where QA analysts and engineers will start at Speedoc. Team
 - Contribute to new test framework tooling and provide feedback to new approaches proposed by the team.
 - Improve deploy processes, deployment scripts, and build pipelines in collaboration with other Software Engineers in Test.
 
-###### Test Engineer 4 (Specialized Tester or Project Consultant)
-This level is reserved for testing specializations
+###### Test Engineer 4 
+This level is reserved for testing specializations and project consultants
 In addition to the skills from Level 3:
 - Security Testing, Automated Testing, E2E automation, Backend/API Testing, etc…
 
-###### Test Engineer 5 (Head of Tests and QA)
+###### Test Engineer 5
 - Implementing and shaping the company’s QA processes and strategies.
 - Strong communication with all the key stakeholders to ensure QA vision is understood and implemented correctly.
 - Be an advocate of Quality Assurance, Continuous Improvement and industry recognized Best Practices.
