@@ -368,7 +368,7 @@ We'll periodically be evolving and upgrading the levels, making them more detail
 
 An individual would be expected to build on their skills evenly and consistently - so that there is no more than +-1 deviation in their attributes achieved across the level framework. In other words, an engineer could be mostly L5 and may have one or two attributes that are L4 or L6 but we expect that they would build on their L4 skills first.
 
-An engineer is expected to achieve ~80% of attributes of the next level to be considered for promotion.
+An engineer is expected to achieve ~80% of attributes of the next level to be considered for promotion. You can progress without meeting every single ability and action in a level.
 
 #### Scope
 
@@ -386,11 +386,11 @@ When looking at the levels within a track, it is important to recognise the the 
 
 #### Reviews & Promotions
 
-In Q1/Q3 we do an 'on/off track review' while in Q2/Q4 we do a 'Career Growth Review'.
-
 Between you and your manager, you agree on where you are on the growth framework.
 
 ![Performance Reviews](img/Eng%20Career%20Paths%20-%20Performance%20Reviews.jpeg)
+
+In Q1/Q3 we do an 'on/off track review' while in Q2/Q4 we do a 'Career Growth Review'.
 
 > **Q1/Q3**
 
