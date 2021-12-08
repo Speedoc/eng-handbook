@@ -46,7 +46,7 @@ The following tracks are available in the delivery category:
 
 The support track is where QA analysts and engineers will start at Speedoc. Team members here contribute to their squads with manual testing, writing automated tests, and coordinating continuous and integrated delivery with platform engineers and development engineers.
 
-###### Manual Test Analyst
+###### Test Engineer 0
 
 - Perform and improve test coverage in collaboration with other Software Engineers in Test.
 - Help create test strategy and implement test scenarios for new features.
@@ -141,7 +141,8 @@ Our platform engineers are responsible for maintaining our network architecture,
 ##### Delivery - Development Engineer
 
 A development engineer will be assigned to an appropriate squad and chapter. Development engineers work on features and are expected to participate in agile events and scrum rituals. A level 4 Development engineer can transition to Tech Lead Level 5 or continue the development engineer track.
-
+###### Development Engineer 0
+- Intern
 ###### Development Engineer 1
 - Delivers well-defined assigned tasks within the cadence of the team's sprint.
 - Understands the basics of agile delivery
@@ -370,7 +371,10 @@ An individual would be expected to build on their skills evenly and consistently
 
 An engineer is expected to achieve ~80% of attributes of the next level to be considered for promotion. You can progress without meeting every single ability and action in a level.
 
+<hr>
+
 #### Scope - Individual Contributor
+IC Tracks currently have up to 7 levels.
 
 When looking at the levels within a track, it is important to recognise the the *scope* of ownership that is expected by each level.
 
@@ -383,6 +387,21 @@ When looking at the levels within a track, it is important to recognise the the 
 | Level 5 | Squad and Chapter |
 | Level 6 | Across more than one squad and chapter |
 | Level 7 | Across the whole company |
+
+#### Scope - Engineering Manager
+
+Engineering Managers have three levels (I, II, and III).
+
+As with the engineering individual contributor growth framework, when looking at the various , it's important to recognise at which scope each level applies to.
+
+| Level | Ownership |
+| :--- | :--- |
+| Level 1 | Engineering Management Team and Engineering |
+| Level 2 | Engineering Management Team, Engineering, and R&D (Product) |
+| Level 3 | Engineering Management Team, Engineering, R&D (Product), and Company-wide. |
+
+
+<hr>
 
 #### Reviews & Promotions
 
