@@ -392,7 +392,7 @@ When looking at the levels within a track, it is important to recognise the the 
 
 Engineering Managers have three levels (I, II, and III).
 
-As with the engineering individual contributor growth framework, when looking at the various , it's important to recognise at which scope each level applies to.
+As with the engineering individual contributor growth framework, when looking at the various attributes and qualities in a level description, it's important to recognise at which scope each level applies to.
 
 | Level | Ownership |
 | :--- | :--- |
