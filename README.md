@@ -370,7 +370,7 @@ An individual would be expected to build on their skills evenly and consistently
 
 An engineer is expected to achieve ~80% of attributes of the next level to be considered for promotion. You can progress without meeting every single ability and action in a level.
 
-#### Scope
+#### Scope - Individual Contributor
 
 When looking at the levels within a track, it is important to recognise the the *scope* of ownership that is expected by each level.
 
