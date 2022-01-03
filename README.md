@@ -223,9 +223,9 @@ Tech Leads own the technical direction of the squad and coordinate team efforts
 - Puts squad work back on track when behind.
 - Customer focused, and embeds a customer-focused culture in the team.
 - Motivates an celebrates big and small wins for the squad and individual team members' achievements
-- fosters effective communication within the squad.
+- Fosters effective communication within the squad.
 - Identifies, manages, and mitigates risks, delays, and blockers and escalates if necessary.
-- Facilitates meetings and discussions involving hte squad, collects actions, and chases/follows up on these.
+- Facilitates meetings and discussions involving the squad, collects actions, and chases/follows up on these.
 - Breaks down large features and epics into smaller pieces of work to enable others in the chapter to review pull requests more efficiently. Encourages others to do this too.
 
 ###### Tech Lead 6
