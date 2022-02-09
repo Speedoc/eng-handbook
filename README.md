@@ -7,7 +7,7 @@
 version 1.1
 
 ## Our Interview Process
-***
+
 > Initial Call / Questionnaire to confirm candidacy, schedule first interview
 
 ### Stage 1: Values and Culture Fit
@@ -52,7 +52,7 @@ The purpose of this interview is to evaluate whether the values of you, the cand
 Review the test results with Engineering management.
 
 ## Progression Framework
-***
+
 - [Career Ladder](#career-ladder)
 - [Tracks](#tracks)
 - [Growth & Development](#growth)
