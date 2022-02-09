@@ -30,7 +30,7 @@ The purpose of this interview is to evaluate whether the values of you, the cand
 <details>
 <summary>Mobile App Development</summary>
 
-  Initial take home assignment to be completed within 72 hours.
+  Initial take home assignment to be completed within 7 calendar days.
   Follow-up live pair programming session with Tech Lead and Engineering Manager. The live coding session will have two parts. The first part will review the take home assignment. The second part will be a pair programming session to solve a small number of live coding exercises.
 </details>
 <details>
