@@ -13,7 +13,7 @@ version 1.1
 ### Stage 1: Values and Culture Fit
 Who?
 
-An engineer and an Engineering Manager. 1 Hour, broken down as 5 mins intros, 40-45 mins questions from us, about 10-15 mins left at the end for you to ask questions about Attest/the role/the team
+An engineer and an Engineering Manager. 1 Hour, broken down as 5 mins intros, 40-45 mins questions from us, about 10-15 mins left at the end for you to ask questions about Speedoc/the role/the team
 
 What?
 
