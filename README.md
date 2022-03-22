@@ -4,7 +4,7 @@
 </br>
 
 # Speedoc Engineering Handbook
-version 1.1
+version 1.2
 
 ## Our Interview Process
 
